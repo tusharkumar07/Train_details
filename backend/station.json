@@ -1,0 +1,16 @@
+[
+  { "station_name": "BAJUD", "station_code": "BJUD", "state_name": "GUJARAT" },
+  { "station_name": "BARAUNI BYPASS", "station_code": "BJUP", "state_name": "BIHAR" },
+  { "station_name": "BARAUNI JN", "station_code": "BJU", "state_name": "BIHAR" },
+  { "station_name": "UNA HIMACHAL", "station_code": "UHL", "state_name": "HIMACHAL PRADESH" },
+  { "station_name": "CHANDIGARH", "station_code": "CDG", "state_name": "CHANDIGARH" },
+  { "station_name": "CHANDRAKONA RD", "station_code": "CDGR", "state_name": "WEST BENGAL" },
+  { "station_name": "OLD DELHI", "station_code": "DLI", "state_name": "DELHI" },
+  { "station_name": "MUMBAI CENTRAL", "station_code": "BCT", "state_name": "MAHARASHTRA" },
+  { "station_name": "KSR BENGALURU", "station_code": "SBC", "state_name": "Karnataka" },
+  { "station_name": "BANCHARI", "station_code": "BNCR", "state_name": "HARYANA" },
+  { "station_name": "BANGALORE CANT", "station_code": "BNC", "state_name": "Karnataka" },
+  { "station_name": "JAIPUR", "station_code": "JP", "state_name": "RAJASTHAN" },
+  { "station_name": "AJMER JN", "station_code": "AII", "state_name": "RAJASTHAN" },
+  { "station_name": "KANGRA", "station_code": "KGRA", "state_name": "HIMACHAL PRADESH" }
+]
